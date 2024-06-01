@@ -1,14 +1,20 @@
-print("hello world")
-greeting='hello'
-print(greeting)
-<<<<<<< HEAD
-rishabav='transport planner'
-rishabav1='python developer'
-print(rishabav,rishabav1)
+# print("hello world")
+# greeting='hello'
+# print(greeting)
+# <<<<<<< HEAD
+# rishabav='transport planner'
+# rishabav1='python developer'
+# print(rishabav,rishabav1)
 
 
 
-for a in range(1000):
-    print(a)
-=======
->>>>>>> cc5d616c8b85c5cbc05681b2446e6fea0582115f
+# for a in range(1000):
+#     if a == 200:break
+#     print(a)
+
+
+mark=int(input())
+if(mark==35):
+    print("pass")
+else:
+    print("fail")
